@@ -42,11 +42,12 @@ body {
     background-image: url("../IMG/img1.jpg");
     background-size: cover;
     background-attachment: fixed;
-    height: 200px;
+    height: 500px;
   }
   
   p {
-    line-height: 26px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
   }
   
   span{
